@@ -182,7 +182,7 @@ nav ul{
 }
 
 .second-section{
-	background-image: url('project/imagess/banner-image.jpg');
+	background-image: url('imagess/banner-image.jpg');
  	
  	background-size: cover;
 	background-repeat: no-repeat;
@@ -362,7 +362,7 @@ button{
 }
 
 .mistery{
-	background-image: url('project/imagess/watch-banner-1.jpg');
+	background-image: url('imagess/watch-banner-1.jpg');
  	
  	background-size: cover;
 	background-repeat: no-repeat;
